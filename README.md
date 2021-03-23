@@ -9,3 +9,12 @@ navicat-premium-mac
 3. 找到 Navicat_Premium_XCGJS.dmg.zip 解压缩即可。
 
 然后第一次安装的时候一定要看新手必看的文档哈，在dmg安装包里面。
+
+
+HOW I DID
+
+1. DOWNLOAD ZIP FILE FROM REPOSITORY
+2. EXTRACT ALL PARTS IN TO ONE DIR
+3. EXCECUTE cat x* > navicat.zip 
+4. EXTRACT  navicat.zip FILE
+5. THEN RUN DMG FILE
